@@ -1,3 +1,7 @@
+# About 
+
+Convenience scripts for submitting live-ctf challenges.
+
 # Prerequisites
 
 - jq
@@ -33,7 +37,7 @@ currently installed packages for you before creating the submission.
 
 # Details
 
-`challenge-token`, `challenge-id` and `last-exploit-id` are plaintext file, the content
+`challenge-token`, `challenge-id` and `last-exploit-id` are plaintext files, the content
 should be obvious. You should not need to edit them.
 
 All your submissions are stored in `./submissions`, the latest one is symlinked to
